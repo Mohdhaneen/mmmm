@@ -10,7 +10,7 @@ from .Channel import (
    GENRES
 )
 
-HELP = """
+**HELP** = """
 Basic Commads
 
 /start :- check am Alive
@@ -27,7 +27,7 @@ Bot Owner Only
 
 """
 
-ABOUT = """
+**ABOUT** = """
 ♻️ Name : **KATY PERRY**
     
 ♻️ Creator : [@MOHD_HANEEN]
